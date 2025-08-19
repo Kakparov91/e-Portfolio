@@ -47,6 +47,6 @@ I am passionate about building scalable, secure, and inclusive digital ecosystem
 
 ## Portfolio / Key Focus Areas
 
-- [[Machine Learning](/ml.md)  
+- [Machine Learning](/ml.md)  
 
 
