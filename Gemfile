@@ -4,5 +4,4 @@ source "https://rubygems.ogit remoterg"
 
 gemspec
 
-gem "jekyll-theme-cayman"
 
