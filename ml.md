@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Machine Learning
+---
+
 ## Machine Learning
 
 ### Jump to Section
