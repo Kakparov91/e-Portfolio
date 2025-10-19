@@ -54,10 +54,14 @@ Zetter, K. (2021) ‘The Colonial Pipeline Hack Explained’, Wired.
 ### Unit 2 EDA Introduction <a name="unit3"></a>
 As part of this unit, we explored the Auto-MPG dataset through exploratory data analysis (EDA). I created several visualizations, including a correlation heatmap, to gain insights into the relationships between variables. One of the key steps involved identifying missing values and examining data distribution through skewness and kurtosis. I also experimented by converting categorical features into numerical values to observe how these changes affected the results. Overall, this was a valuable introductory experience that allowed me to explore various data visualization techniques in a hands-on way. 
 
-![Unit2HeatMap](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/kurtosis.png)
-![Unit2Scat](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/matrix.png)
-![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/mpg_weight.png)
-![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/swekness.png)
+![Unit2HeatMap](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/kurtosis.png)
+
+![Unit2Scat](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/matrix.png)
+
+![Unit2Skew1](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/mpg_weight.png)
+
+![Unit2Skew2](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/swekness.png)
+
 
 ### Unit 3-4 Correlation and Regression <a name="unit3"></a>
 In this unit, we deepened our understanding of different regression techniques, including Linear, Multiple Linear, Polynomial, and Pearson Correlation. Working with Jupyter Notebooks, we adjusted various parameters to observe how these changes impacted both regression results and data correlations. I initially found these exercises quite challenging, often mixing up the different methods and questioning my grasp of the concepts. However, the visual outputs from our experiments played a key role in reinforcing my learning and clarifying the distinctions between the techniques.
