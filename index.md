@@ -34,33 +34,24 @@ Although the total economic costs from supply chain disruptions and service dela
 The paradox of Industry 4.0 is shown by this case: whereas digital technologies boost productivity, they also put vital systems at danger of systemic failure. To make sure that innovation is balanced with security and ethical responsibility as sectors shift to Industry 5.0, the emphasis must shift toward resilience, sustainability, and human-centered oversight (European Commission, 2021; Metcalf, 2024).
 
 
-
 References :
 
 Department of Homeland Security (2021) DHS Announces New Cybersecurity Requirements for Critical Pipeline Owners and Operators. Available at: https://www.dhs.gov/news/2021/05/27/dhs-announces-new-cybersecurity-requirements-critical-pipeline-owners-and-operators (Accessed: 18 August 2025).
-
 European Commission (2021) Industry 5.0: Towards a sustainable, human-centric and resilient European industry. Brussels: European Commission.
-
 FBI (2021) FBI Statement on Ransomware Attack Affecting Colonial Pipeline Networks. Available at: https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-ransomware-attack-affecting-colonial-pipeline-networks (Accessed: 18 August 2025).
-
 Metcalf, G.S. (2024) An Introduction to Industry 5.0: History, Foundations, and Futures. Singapore: Springer.
-
 Schwab, K. (2017) The Fourth Industrial Revolution. Geneva: World Economic Forum.
-
 Turton, W. and Mehrotra, K. (2021) Colonial Pipeline Paid Hackers Nearly $5 Million in Ransom. Bloomberg.
-
 Zetter, K. (2021) ‘The Colonial Pipeline Hack Explained’, Wired.
 
 ### Unit 2 EDA Introduction <a name="unit3"></a>
 As part of this unit, we explored the Auto-MPG dataset through exploratory data analysis (EDA). I created several visualizations, including a correlation heatmap, to gain insights into the relationships between variables. One of the key steps involved identifying missing values and examining data distribution through skewness and kurtosis. I also experimented by converting categorical features into numerical values to observe how these changes affected the results. Overall, this was a valuable introductory experience that allowed me to explore various data visualization techniques in a hands-on way. 
 
 ![Unit2HeatMap](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/kurtosis.png)
-
 ![Unit2Scat](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/matrix.png)
-
 ![Unit2Skew1](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/mpg_weight.png)
-
 ![Unit2Skew2](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/swekness.png)
+
 
 
 ### Unit 3-4 Correlation and Regression <a name="unit3"></a>
