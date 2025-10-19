@@ -99,10 +99,13 @@ Over the past decade the adoption of artificial intelligence (AI) has increased 
 Despite these advantages, the growing use of AI also raises ethical and regulatory concerns. One of the most pressing issues is the lack of transparency in AI training data, which creates uncertainty and potential bias in decision-making systems (Council of the European Union, 2024). Poorly curated or uncleaned datasets can lead to inaccurate, unfair, or even harmful outcomes — issues that become increasingly problematic in the absence of strong governance and safeguards (Tartaro, Smith and Shaw, 2023).
 As AI technologies continue to shape everyday life and transform industries, the question of accountability becomes more urgent. Policymakers and international bodies now face the challenge of determining where AI should be deployed responsibly and where its use may be inappropriate or risky (European Parliament, 2020).
 
-Reference List (Harvard Style)
+Reference:
 Council of the European Union (2024) Benefits and Risks of AI. Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/ (Accessed: 19 October 2025).
+
 European Parliament (2020) Artificial intelligence: threats and opportunities. Available at: https://www.europarl.europa.eu/topics/en/article/20200918STO87404/artificial-intelligence-threats-and-opportunities (Accessed: 19 October 2025).
+
 Google Cloud (2024) Generative AI – Deploy an AI application using Google Cloud. Available at: https://cloud.google.com/solutions/generative-ai (Accessed: 19 October 2025).
+
 Tartaro, A., Smith, A.L. and Shaw, P. (2023) ‘Assessing the impact of regulations and standards on innovation in the field of AI’, arXiv preprint. Available at: https://arxiv.org/abs/2302.04110 (Accessed: 19 October 2025).
 
 
