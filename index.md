@@ -9,7 +9,7 @@ title: Kanan Akparov
 
 - [Unit 1: The 4th Industrial Recolution](#unit1)
 - [Unit 2: EDA Introduction](#unit2)
-- [Unit 3: Correlation and Regression](#unit3)
+- [Unit 3-4: Correlation and Regression](#unit3)
 - [Unit 5: Jaccard Coefficient Calculation](#unit5)
 - [Unit 6: Developmental Project](#unit6)
 - [Unit 7: Perceptron Activites](#unit7) 
@@ -59,16 +59,14 @@ As part of this unit, we explored the Auto-MPG dataset through exploratory data 
 ![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/mpg_weight.png)
 ![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/swekness.png)
 
-### Unit 3 Correlation and Regression <a name="unit3"></a>
-Using Jupyter notebooks, in this unit, we modified parameters and observed how changes affect data correlation and regression. This unit provided another foundational layer of understanding to various types of regressions: Polynomial, Multiple Linear, Linear, and Pearson Correlation. These exercises were more challenging to me, I kept confusing the multiple techniques and doubting my understanding of the unit concepts. My understanding was more solidified thanks to the visualizations generated through testing. 
+### Unit 3-4 Correlation and Regression <a name="unit3"></a>
+In this unit, we deepened our understanding of different regression techniques, including Linear, Multiple Linear, Polynomial, and Pearson Correlation. Working with Jupyter Notebooks, we adjusted various parameters to observe how these changes impacted both regression results and data correlations. I initially found these exercises quite challenging, often mixing up the different methods and questioning my grasp of the concepts. However, the visual outputs from our experiments played a key role in reinforcing my learning and clarifying the distinctions between the techniques.
 
-Linear Regression experiment: Adding random noise to our data changes the regression model. 
-![Unit3Linear1](https://github.com/user-attachments/assets/47ef86e1-4d28-4350-b7a2-cd175bba39d4)
-![Unit3Linear2](https://github.com/user-attachments/assets/f6e51b88-34a5-4dff-bbc2-e27686b4c8fa)
+![Unit3Linear1](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/pear.png)
+![Unit3Linear2](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/pearson.png)
 
-Pearson correlation experiment: Changing covariance highly affects the data in this model. 
-![Unit3Pearson1](https://github.com/user-attachments/assets/2b7afaa5-9a88-4e0d-ab5b-cfee240b119d)
-![Unit3Pearson2](https://github.com/user-attachments/assets/4564147f-9901-467a-aa8e-7ed0065c1683)
+![Unit3Pearson1](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/poly.png)
+![Unit3Pearson2](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/poly1.png)
 
 ### Unit 5 Jaccard Coefficient Calculation  <a name="unit5"></a>
 Unit 5 we learned how to calculate the Jaccard Coefficient. 
