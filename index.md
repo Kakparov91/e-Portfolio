@@ -66,7 +66,8 @@ In this unit, we deepened our understanding of different regression techniques, 
 ### Unit 5 Jaccard Coefficient Calculation  <a name="unit5"></a>
 In Unit 5, we explored how to compute the Jaccard Coefficient. 
 
-<img width="559" alt="Unit6Jac" src="https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/Jaccard.png" />
+<img width="559" alt="Unit6Jac" src="https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/Jaccard.png" />
+
 
 ## Unit 6 Development Team Project  <a name="unit6"></a>
 In this unit, we focused on submitting our Development Team Project, which required us to produce a detailed data analysis report and conduct peer reviews of our teammates. Throughout this project, I found myself stepping up more — taking the initiative to schedule meetings and assume a leadership role within the group.
