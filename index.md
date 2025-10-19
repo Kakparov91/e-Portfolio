@@ -37,11 +37,17 @@ The paradox of Industry 4.0 is shown by this case: whereas digital technologies 
 References :
 
 Department of Homeland Security (2021) DHS Announces New Cybersecurity Requirements for Critical Pipeline Owners and Operators. Available at: https://www.dhs.gov/news/2021/05/27/dhs-announces-new-cybersecurity-requirements-critical-pipeline-owners-and-operators (Accessed: 18 August 2025).
+
 European Commission (2021) Industry 5.0: Towards a sustainable, human-centric and resilient European industry. Brussels: European Commission.
+
 FBI (2021) FBI Statement on Ransomware Attack Affecting Colonial Pipeline Networks. Available at: https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-ransomware-attack-affecting-colonial-pipeline-networks (Accessed: 18 August 2025).
+
 Metcalf, G.S. (2024) An Introduction to Industry 5.0: History, Foundations, and Futures. Singapore: Springer.
+
 Schwab, K. (2017) The Fourth Industrial Revolution. Geneva: World Economic Forum.
+
 Turton, W. and Mehrotra, K. (2021) Colonial Pipeline Paid Hackers Nearly $5 Million in Ransom. Bloomberg.
+
 Zetter, K. (2021) ‘The Colonial Pipeline Hack Explained’, Wired.
 
 ### Unit 2 EDA Introduction <a name="unit3"></a>
