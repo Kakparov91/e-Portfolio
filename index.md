@@ -69,43 +69,47 @@ In this unit, we deepened our understanding of different regression techniques, 
 ![Unit3Pearson2](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/poly1.png)
 
 ### Unit 5 Jaccard Coefficient Calculation  <a name="unit5"></a>
-Unit 5 we learned how to calculate the Jaccard Coefficient. 
+In Unit 5, we explored how to compute the Jaccard Coefficient. 
 
-<img width="559" alt="Unit6Jac" src="https://github.com/user-attachments/assets/d57c3e73-4903-4112-910d-2cbfb225b45d" />
+<img width="559" alt="Unit6Jac" src="https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/Jaccard.png" />
 
 ## Unit 6 Development Team Project  <a name="unit6"></a>
-This unit was dedicated to our submission of our Development Team Project. We were tasked to complete a data analysis report and a peer review of our team members. 
-This project challenged me to take more initiative and lead in scheduling meetings and becoming more of a team leader. Confidence during team discussions is also something I have to work on, and to approach each challenge with an open mind rather than what I believe is the ideal solution. My greatest strengths in this team project was my literary skills and willingness to cooperate, which both carried the team greatly during the report writing and summarization needed. Our team was the most productive during our discussions, setting realistic goals and assigning tasks to each member in a realistic time frame. Our greatest weakness was a certain pessimistic outlook on the perceived difficulty of the task, while I believed it was a reasonable project. 
+In this unit, we focused on submitting our Development Team Project, which required us to produce a detailed data analysis report and conduct peer reviews of our teammates. Throughout this project, I found myself stepping up more — taking the initiative to schedule meetings and assume a leadership role within the group.
+One of the key lessons I learned was the importance of maintaining confidence during team discussions and keeping an open mind instead of clinging to what I personally viewed as the best solution. My strongest contributions were my writing abilities and cooperative attitude, which proved especially useful during the report writing and summarization stages.
+Our team functioned best during discussions where we set practical goals and divided tasks fairly within achievable time frames. However, a recurring weakness was a general sense of pessimism about the project’s difficulty — something I personally disagreed with, as I found the workload quite manageable.
 
-The link to our report can be found here: [Project Report](/assets/css/ml/ml_report_u6.pdf)
+The link to our report can be found here: [Project Report](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/unit6-Airbnb%20in%20New%20York%20City%20%20A%20Data%20Driven%20Analysis%20of%20Pricing%20Location%2C%20and%20Market%20Segmentation.pdf)
 
 
 ## Unit 7 Perceptron Activites <a name="unit7"></a>
 
-Utilizing our new knowledge on Perceptron, this unit explored changing input values and weights to result in neuron activation. But when the inputs remain the same and only the weight changes, neuron activation does not happen. 
+In this unit, we applied our newly gained understanding of the Perceptron to experiment with how adjusting input values and weights can trigger neuron activation. However, when the inputs stay constant and only the weights are altered, the neuron fails to activate.
 
 ## Unit 8 Gradient Cost Function <a name="unit8"></a>
 
-What is the minimum cost with minimum iterations? In this unit, we had an exercise of reaching that goal. The original set had 100 iterations with a learning rate of 0.8,  the decrease had 50 iterations and a learning rate of 0.7
+We focused on an exercise designed to identify the minimum cost while achieving it with the least number of iterations possible. This task helped us better understand the optimization process in machine learning models
 
 ## Unit 9 - 10 Legal and Ethical ANN Applications <a name="unit9"></a>
-The increase in use of AI has grown exponentially in the last decade, and even more in the last couple of years. Despite its many benefits, unregulated anything can lead to many ethical concerns. The lack of transparency in training data regarding AI remains a huge issue (European Council, 2024). While bringing AI into our daily lives is proving numerous advantages in customer experience and in the medical field of diagnostics. The energy industry has also started to utilize AI to boost efficiency, while banking systems are improving their fraud detection and security with AI (Google, 2024).
 
-AI does, however, cause concern for quality bias, since poorly cleaned data can lead to harmful results. The issue is greatly exacerbated without safeguards and regulations (European Council, 2024). As AI technology spreads and becomes increasingly available in every industry and individual's lives, the responsibility of its impact will fall on lawmakers and ethical discussions of where AI belongs and, more importantly, where it does not. 
+Over the past decade the adoption of artificial intelligence (AI) has increased at an exponential pace. Its integration across industries has delivered significant benefits, from improving customer experiences to enhancing medical diagnostics. The energy sector is applying AI to boost operational efficiency, while the banking industry uses it to strengthen fraud detection and overall security (Google Cloud, 2024).
+Despite these advantages, the growing use of AI also raises ethical and regulatory concerns. One of the most pressing issues is the lack of transparency in AI training data, which creates uncertainty and potential bias in decision-making systems (Council of the European Union, 2024). Poorly curated or uncleaned datasets can lead to inaccurate, unfair, or even harmful outcomes — issues that become increasingly problematic in the absence of strong governance and safeguards (Tartaro, Smith and Shaw, 2023).
+As AI technologies continue to shape everyday life and transform industries, the question of accountability becomes more urgent. Policymakers and international bodies now face the challenge of determining where AI should be deployed responsibly and where its use may be inappropriate or risky (European Parliament, 2020).
 
-Reference list: 
-Arena, C. (2022). 7 Disadvantages of Artificial Intelligence Everyone Should Know About. [online] Liberties.eu. Available at: https://www.liberties.eu/en/stories/disadvantages-of-artificial-intelligence/44289. 
+Reference List (Harvard Style)
+Council of the European Union (2024) Benefits and Risks of AI. Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/ (Accessed: 19 October 2025).
+European Parliament (2020) Artificial intelligence: threats and opportunities. Available at: https://www.europarl.europa.eu/topics/en/article/20200918STO87404/artificial-intelligence-threats-and-opportunities (Accessed: 19 October 2025).
+Google Cloud (2024) Generative AI – Deploy an AI application using Google Cloud. Available at: https://cloud.google.com/solutions/generative-ai (Accessed: 19 October 2025).
+Tartaro, A., Smith, A.L. and Shaw, P. (2023) ‘Assessing the impact of regulations and standards on innovation in the field of AI’, arXiv preprint. Available at: https://arxiv.org/abs/2302.04110 (Accessed: 19 October 2025).
 
-European Council. (2024). Benefits and risks of AI. [online] Available at: https://www.consilium.europa.eu/en/policies/benefits-and-risks-of-ai/#benefits. 
-
-Google (2024). Applications of Artificial Intelligence (AI). [online] Google Cloud. Available at: https://cloud.google.com/discover/ai-applications. 
 
 ## Unit 11 Individual Development Project on CIFAR-10 <a name="unit11"></a>
-This unit was centered around an individual development project. 
+This unit focused on an individual development project.
 
-A full presentation is available here: <a href="https://docs.google.com/presentation/d/1rwIDxzmcRM_dNbesnWP_qWevh05rTUAU-s1vXqhEw5w/edit?usp=sharing" target="_blank">NN Presentation</a>
+A full presentation is available here: <a href="https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/unit%2011-Presentation.pdf" target="_blank">NN Presentation</a>
 
-A transcript of the video presentation on the project slides is available here: [NNProject_Transcript_Nilsson.docx](https://github.com/user-attachments/files/19826590/NNProject_Transcript_Nilsson.docx)
+A transcript of the video presentation on the project slides is available here: [Transcript_Akparov.docx](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/unit%2011-Word%20transcript%20project.docx)
+Python code is available here: <a href="https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/unit%2011-Kanan%20Akparov%20python%20file.ipynb" target="_blank">NN Presentation</a>
+
 
 ## Individual Reflection <a name="reflection"></a>
 
