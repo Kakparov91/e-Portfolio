@@ -52,11 +52,12 @@ Turton, W. and Mehrotra, K. (2021) Colonial Pipeline Paid Hackers Nearly $5 Mill
 Zetter, K. (2021) ‘The Colonial Pipeline Hack Explained’, Wired.
 
 ### Unit 2 EDA Introduction <a name="unit3"></a>
-In this unit, we were able to perform EDA on the Auto-MPG dataset. I set out to identify missing values, estimate skewness and kurtosis. I created a heat correalation map along with various other visualizations of parameters to analyze. This excerise felt like a great introductory point as it allowed me to play around with various plotting techniques and replace some categorical values with numerical values to experiment with the effects in outcome. 
+As part of this unit, we explored the Auto-MPG dataset through exploratory data analysis (EDA). I created several visualizations, including a correlation heatmap, to gain insights into the relationships between variables. One of the key steps involved identifying missing values and examining data distribution through skewness and kurtosis. I also experimented by converting categorical features into numerical values to observe how these changes affected the results. Overall, this was a valuable introductory experience that allowed me to explore various data visualization techniques in a hands-on way. 
 
-![Unit2HeatMap](https://github.com/user-attachments/assets/bce8a8d4-dd52-4243-9828-95c5980cd953)
-![Unit2Scat](https://github.com/user-attachments/assets/4a2716fd-3aa4-4c59-9910-c74cd4846a75)
-![Unit2Scew](https://github.com/user-attachments/assets/ad0c66f0-24b6-419e-b1a2-a35dfb2c3d5b)
+![Unit2HeatMap](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/kurtosis.png)
+![Unit2Scat](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/matrix.png)
+![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/mpg_weight.png)
+![Unit2Scew](https://github.com/Kakparov91/e-Portfolio/blob/master/assets/css/ml/swekness.png)
 
 ### Unit 3 Correlation and Regression <a name="unit3"></a>
 Using Jupyter notebooks, in this unit, we modified parameters and observed how changes affect data correlation and regression. This unit provided another foundational layer of understanding to various types of regressions: Polynomial, Multiple Linear, Linear, and Pearson Correlation. These exercises were more challenging to me, I kept confusing the multiple techniques and doubting my understanding of the unit concepts. My understanding was more solidified thanks to the visualizations generated through testing. 
