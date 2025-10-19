@@ -57,10 +57,10 @@ As part of this unit, we explored the Auto-MPG dataset through exploratory data 
 ### Unit 3-4 Correlation and Regression <a name="unit3"></a>
 In this unit, we deepened our understanding of different regression techniques, including Linear, Multiple Linear, Polynomial, and Pearson Correlation. Working with Jupyter Notebooks, we adjusted various parameters to observe how these changes impacted both regression results and data correlations. I initially found these exercises quite challenging, often mixing up the different methods and questioning my grasp of the concepts. However, the visual outputs from our experiments played a key role in reinforcing my learning and clarifying the distinctions between the techniques.
 
-![Unit3Linear1](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/pear.png)
-![Unit3Linear2](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/pearson.png)
-![Unit3Pearson1](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/poly.png)
-![Unit3Pearson2](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/poly1.png)
+![Unit3](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/pear.png)
+![Unit3L](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/pearson.png)
+![Unit3P](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/poly.png)
+![Unit3Pe](https://raw.githubusercontent.com/Kakparov91/e-Portfolio/master/assets/css/ml/poly1.png)
 
 
 ### Unit 5 Jaccard Coefficient Calculation  <a name="unit5"></a>
